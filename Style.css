@@ -8,5 +8,8 @@ body{
 	background: url(intro-bg.jpg) no-repeat center center;
 }
 .signup-form{
-	color: #fff: center center;
+	color: #000: center center;
+}
+.email{
+	color:#000;
 }
