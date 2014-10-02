@@ -5,11 +5,13 @@
 	color: #fff;
 }
 body{
-	background: url(intro-bg.jpg) no-repeat center center;
+	background:url(intro-bg.jpg) no-repeat center center;
 }
 .signup-form{
-	color: #000: center center;
+	text-align: center center;
+	color: #fff;
 }
+
 .email{
 	color:#000;
 }
