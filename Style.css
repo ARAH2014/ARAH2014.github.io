@@ -4,14 +4,10 @@
 	padding-bottom: 10%;
 	color: #fff;
 }
-body{
-	background:url(intro-bg.jpg) no-repeat center center;
+body {
+	background: url(intro-bg.jpg) no-repeat center center;
 }
-.signup-form{
-	text-align: center center;
+.signup-form {
+	text-align: center;
 	color: #fff;
-}
-
-.email{
-	color:#000;
 }
