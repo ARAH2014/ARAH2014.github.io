@@ -1,14 +1,18 @@
 .intro-message {
+	background: url (title.png) center center;
 	text-align: center;
 	padding-top: 20%;
 	padding-bottom: 10%;
-	color: #fff;
+	font-size: 20px;
+	color:#fff;
 }
 body {
 	background: url(intro-bg.jpg) no-repeat center center;
 }
 #my-list{
 	color:#fff;
+	font: Helvetica, sans-serif;
+	text-align: center
 }
 .signup-form {
 	text-align: center;
