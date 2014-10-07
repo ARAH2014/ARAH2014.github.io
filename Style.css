@@ -3,7 +3,7 @@
 	text-align: center;
 	padding-top: 20%;
 	padding-bottom: 10%;
-	font-size: 20px;
+	font-size: 25px;
 	color:#fff;
 }
 body {
@@ -11,6 +11,7 @@ body {
 }
 #my-list{
 	color:#fff;
+	font-size: 18px
 	font: Helvetica, sans-serif;
 	text-align: center
 }
