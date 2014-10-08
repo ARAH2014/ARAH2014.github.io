@@ -12,6 +12,17 @@
 body {
 	background: url(intro-bg.jpg) no-repeat center center;
 }
+.navbar-inverse{
+	background:rgba(0,0,0,0.6);
+	font:20px,Helvetica, sans-serif; 
+	color:#f9fb05;
+	font-variant: small-caps;
+	font-weight: 400;
+}
+.nav{
+	font:18px, #fff;
+}
+
 .my-list {
 	padding-top: 8%;
 	padding-bottom: 2%;
@@ -19,7 +30,7 @@ body {
 	color: #fff;
 	font: Helvetica, sans-serif;
 	font-variant:small-caps;
-	text-align: center center;
+	text-align: left;
 }
 .signup-form {
 	text-align: center;
