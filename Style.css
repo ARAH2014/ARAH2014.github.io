@@ -5,9 +5,10 @@
 	font-variant:small-caps;
 	padding-top: 2%;
 	padding-bottom: 4%;
-	font-size: 40px;
+	font-size: 70px;
 	font-weight: 800;
 	color:#fff;
+	text-shadow: 0 0 6px #000, 0 0 3px #ffff00;
 }
 body {
 	background: url(city.jpg), no-repeat, center, center;
